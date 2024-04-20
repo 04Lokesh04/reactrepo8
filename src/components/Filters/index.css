@@ -1,0 +1,71 @@
+.employecard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+.salarycard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+.line {
+  color: #f8fafc;
+  font-size: 5px;
+  margin-bottom: 15px;
+}
+
+.employepara {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-bottom: 7px;
+}
+
+.salarypara {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-bottom: 7px;
+}
+
+.employeList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.salaryList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.employelist {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+.salarylist {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+.checkinput {
+  font-size: 15px;
+}
+
+.filterlabel {
+  color: #f8fafc;
+  font-size: 14px;
+  font-family: 'Roboto';
+}

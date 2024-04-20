@@ -1,0 +1,29 @@
+.notfound {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #202020;
+  height: 100vh;
+  background-size: cover;
+}
+
+.not-found-img {
+  height: 350px;
+  width: 300px;
+  margin: 15px;
+}
+
+.notfoundheading {
+  color: #f1f5f9;
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.notfoundpara {
+  color: #f1f5f9;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}

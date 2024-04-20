@@ -1,0 +1,49 @@
+.navheader {
+  background-color: #272727;
+  height: 15vh;
+  background-size: cover;
+  padding: 20px;
+  padding-top: 20px;
+}
+
+.Headercard {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.websitelogo {
+  height: 55px;
+  width: 125px;
+  align-items: flex-start;
+}
+
+.navmenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 80%;
+  margin-right: 425px;
+}
+
+.navlink {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-right: 15px;
+  margin-left: 15px;
+  list-style-type: none;
+}
+
+.logout-desktop-btn {
+  background-color: #6366f1;
+  color: #ffffff;
+  height: 35px;
+  width: 85px;
+  font-size: 12px;
+  font-family: 'Roboto';
+  border: 0px;
+  border-radius: 10px;
+  margin-right: 120px;
+}

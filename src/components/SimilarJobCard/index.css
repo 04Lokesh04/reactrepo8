@@ -1,0 +1,67 @@
+.similarjobcard {
+  background-color: #272727;
+  height: 300px;
+  width: 225px;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.similarsection1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.similarcompanylogo {
+  height: 35px;
+  width: 35px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.similarbrandis {
+  display: flex;
+  flex-direction: column;
+}
+
+.similarcompanytitle {
+  color: #f8fafc;
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin-bottom: 5px;
+}
+
+.similarratingpara {
+  color: #f8fafc;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+
+.similarheading {
+  color: #f8fafc;
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin-bottom: 3px;
+}
+
+.similarpara {
+  color: #f8fafc;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+
+.similarrate {
+  display: flex;
+  flex-direction: row;
+}
+
+.similarstarimage {
+  color: #fbbf24;
+  font-size: 13px;
+  margin-right: 8px;
+  margin-top: 12px;
+}
